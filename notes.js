@@ -1,4 +1,4 @@
-// some == baki
+// some == atlist one value pass in the codition that time we use some method
 // findIndex = method same as like find method .but this method search only index of result value
 // every == method return onlu boolen value.. and every method accepting arrguments(comperison operators)
 // includes == method return boolen value ..search keyword in include methods
@@ -9,8 +9,8 @@
 //... new
 
 // Diffrence
-// findIndex = mehtod return the element index
-// find = method return the element value
+// findIndex = mehtod return the element index / first index
+// find = method return the element value / first value
 
 // Diffrence
 // map = method return a new array / method used to transform the element of an array
@@ -27,7 +27,7 @@
 // join = method use for joining the array element into a string
 // concat = method use for concatination/merge two or more then two arrays
 // splice = method use for romving/replacing element of existing array
-// slice = method use for get a element of an array 
+// slice = method use for get a element value and return a new array 
 
 // sort = method use for element sort alphabeticaly 
 // reverse = method use for reversing the element in an array

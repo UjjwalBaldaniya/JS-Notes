@@ -37,6 +37,9 @@ const milan = ["aa", "bb", "c", "d", "e"]
 // })
 // console.log(resu)
 
+// const resu = ujjwal.find((element) => element>5)
+// console.log(resu);
+
 // const resu = hardik.findIndex((element) => {
 //     return element > 5
 // })
@@ -55,7 +58,7 @@ const milan = ["aa", "bb", "c", "d", "e"]
 //     return element <=1
 // })
 // console.log(resu)
-              
+
 // const resu = ujjwal.splice(1,1,12)
 // console.log(milan.splice(1, 1, 12))
 // console.log(milan)

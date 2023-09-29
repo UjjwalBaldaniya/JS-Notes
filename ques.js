@@ -61,7 +61,7 @@ const res1 = (...value) => {
 
 // destructuring array 
 const [firstName, lastName, ...rest] = ["ujjwal", "baldaniya", "babubhai", "aaa", "bbb"]
-// console.log(firstName, rest)
+// console.log(firstName, rest)    
 
 // destructuring Object 
 const { firstName1, lastName1, ...rest1 } = { firstName1: "ujjwal", lastName1: "baldaniya", rollno: 45, address: "surat", gender: "male" }

@@ -7,7 +7,7 @@ const ujjwal1 = 'ujjwal baldaniya'
 // find character with index value
 
 // 2.charCodeAt() *******
-// console.log(ujjwal.charCodeAt(0))
+// console.log(ujjwal1.charCodeAt(0))
 // find alphabetic character code with index
 
 // 3.concat() *******
@@ -38,19 +38,19 @@ const ujjwal1 = 'ujjwal baldaniya'
 // console.log(ujjwal.matchAll("ujjwal"))
 
 // 10.repeat() *******
-// console.log(ujjwal.repeat(2))
+// console.log(ujjwal1.repeat(2))
 // method accept only number value, and give a number that time string print 
 
 // 11.replace() *******
-// console.log(ujjwal.replace('u',"j"))
+// console.log(ujjwal1.replace('u',"j"))
 // replacing the charcter, using 2 parameter
 
 // 12. replaceAll() *******
-// console.log(ujjwal.replaceAll('a', 'j'))
+// console.log(ujjwal1.replaceAll('a', 'j'))
 // replacing all alphabetical charcter with secound perameter
 
 // 13. search() *******
-// console.log(ujjwal.search("w"))
+// console.log(ujjwal1.search("w"))
 // method like indexOf - find index value with alphabetical character
 
 // 14. slice() *******
@@ -58,7 +58,7 @@ const ujjwal1 = 'ujjwal baldaniya'
 // slice method takes 2 parameter, start position and end position 
 
 // 15. split() *******
-// console.log(ujjwal.split(""))
+// console.log(ujjwal1.split(""))
 // convert array into string method
 
 // 16. startsWith() *******
@@ -66,7 +66,7 @@ const ujjwal1 = 'ujjwal baldaniya'
 // if starting character is present in string then return boolean value
 
 // 17. substr() *******
-// console.log(ujjwal.substr())
+// console.log(ujjwal1.substr())
 // method takes 2 parameter, start position and length (cut of character)
 
 // 18. substring() *******

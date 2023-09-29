@@ -16,14 +16,14 @@ document.write("<br>")
 
 // ================================= PRACTICE - 2 ====================================== //
 
-// for (let i = 0; i <= 15; i++){
-//     // console.log(i)
-//     if(i % 2 === 0){
-//         console.log(i + "is Even")
-//     }else{
-//         console.log(i + "is odd")
-//     }
-// }
+for (let i = 0; i <= 15; i++){
+    // console.log(i)
+    if(i % 2 === 0){
+        console.log(i + "is Even")
+    }else{
+        console.log(i + "is odd")
+    }
+}
 
 // ================================= PRACTICE - 3 ====================================== //
 
